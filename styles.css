@@ -1,0 +1,33 @@
+h1 {
+  font-size: 50px;
+  background-color: green;
+  height: 200px;
+  padding-top: 60px;
+  color: white;
+  font-weight: bold;
+}
+.container div h2 button {
+  font-size: 24px;
+  color: white;
+  font-weight: bold;
+}
+.container {
+  font-size: 24px;
+  color: white;
+  background-color: green;
+  font-weight: bold;
+}
+.container div {
+  text-size: 50px;
+  color: white;
+  background-color: green;
+  font-weight: bold;
+}
+.footer h6 {
+  height: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: green;
+  color: white;
+  font-weight: bold;
+}
