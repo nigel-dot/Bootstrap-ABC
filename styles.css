@@ -1,33 +1,44 @@
 h1 {
-  font-size: 50px;
-  background-color: green;
-  height: 200px;
-  padding-top: 60px;
-  color: white;
-  font-weight: bold;
+	font-size: 50px;
+
+	height: 200px;
+	padding-top: 40px;
+	color: white;
+	text-shadow: 2px 2px;
+	/* font-weight: bold; */
 }
-.container div h2 button {
-  font-size: 24px;
-  color: white;
-  font-weight: bold;
+h2 {
+	color: white;
+	text-shadow: 2px 2px;
 }
-.container {
-  font-size: 24px;
-  color: white;
-  background-color: green;
-  font-weight: bold;
+.container-fluid div h2 button {
+	font-size: 24px;
+	color: goldenrod;
+
+	font-weight: bold;
 }
-.container div {
-  text-size: 50px;
-  color: white;
-  background-color: green;
-  font-weight: bold;
+.container-fluid {
+	font-size: 24px;
+	padding-left: 80px;
+	color: goldenrod;
+
+	font-weight: bold;
 }
-.footer h6 {
-  height: 50px;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: green;
-  color: white;
-  font-weight: bold;
+.container-fluid div {
+	size: 50px;
+	color: white;
+
+	font-weight: bold;
+}
+.container-fluid .card-body {
+	color: white;
+	background-color: red;
+}
+
+footer h6 {
+	height: 50px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	size: 1rem;
+	color: white;
 }
